@@ -79,14 +79,15 @@ slidenumbers: true
 
 ## The Downsides to Ember
 * It’s a framework
-* It doesn’t work well if you want a sprinkle
+* No Sprinkles
 * Market penetration
 
 ---
 
 ## So what’s it look like?
 * Router
-* Controllers -> components
+* Controllers
+* Components
 * Model
 * Templates
 
